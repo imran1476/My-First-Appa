@@ -29,6 +29,7 @@ function Sports(){
     <ul>
       <li>mango</li>
       <li>banana</li>
+      <li>kola</li>
     </ul>
    </div>
   )
